@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-family: 'Manrope', sans-serif, 'arial';
+
+  --font-color: #213047;
+  --gradient: linear-gradient(90deg, rgba(110, 28, 74, 1) 0%, rgba(192, 51, 86, 1) 100%);
+  --icon-gradient: linear-gradient(120deg, rgba(110, 28, 74, 1) 0%, rgba(192, 51, 86, 1) 100%);
+}
+
+.card {
+  padding: 20px 15px;
+  border-radius: 10px;
+  box-shadow: 0.1px 3px 4px 0 rgb(226, 226, 226);
+}
